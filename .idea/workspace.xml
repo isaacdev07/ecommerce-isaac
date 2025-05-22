@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba2d33fa-3420-4d8a-ac77-becef7a1d4a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.senai/ecommerce/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.senai/ecommerce/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/EcommerceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/EcommerceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/controllers/PedidoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/controllers/PedidoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/controllers/ProdutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/controllers/ProdutoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/controllers/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/controllers/UsuarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/CategoriaDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/CategoriaDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/ItemPedidoDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/ItemPedidoDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/PagamentoRequestDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/PagamentoRequestDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/PedidoDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/PedidoDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/ProdutoDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/ProdutoDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/UsuarioDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/dto/UsuarioDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Categoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Categoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/ItemDoPedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/ItemDoPedido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/ItemDoPedidoPK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/ItemDoPedidoPK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Pagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Pagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Pedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Pedido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/StatusDoPedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/StatusDoPedido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/entities/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/CategoriaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/CategoriaRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/ItemDoPedidoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/ItemDoPedidoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/PagamentoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/PagamentoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/PedidoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/PedidoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/ProdutoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/ProdutoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/UsuarioRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/repositories/UsuarioRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/services/PedidoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/services/PedidoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/services/ProdutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/services/ProdutoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/services/UsuarioService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/ecommerce/services/UsuarioService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/senai/ecommerce/EcommerceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/senai/ecommerce/EcommerceApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2x8oHBJn7xqC1drwDg4GHHlUT5d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.com.senai.ecommerce in ecommerce.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.EcommerceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.EcommerceApplication">
+    <configuration name="com.senai.ecommerce in ecommerce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senai.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.senai.ecommerce" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EcommerceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.senai.ecommerce.EcommerceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.senai.ecommerce in ecommerce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba2d33fa-3420-4d8a-ac77-becef7a1d4a2" name="Changes" comment="" />
+      <created>1747328971546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747328971546</updated>
+      <workItem from="1747328972859" duration="824000" />
+      <workItem from="1747330468501" duration="1570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
