@@ -24,7 +24,7 @@ public class UsuarioController {
 		dto = usuarioService.salvarUsuario(dto);
 		return ResponseEntity.ok(dto);
 	}
-
+	// post login return token
 	@PostMapping(value = "/login")
 	public ResponseEntity<?> login(@RequestBody UsuarioDTO dto) {
 		boolean login = usuarioService.autenticarUsuario(dto);
@@ -37,4 +37,5 @@ public class UsuarioController {
 	}
 
 }
+
 
