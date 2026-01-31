@@ -20,7 +20,7 @@ public class SecurityConfig {
 
     @Autowired
     SecurityFilter securityFilter;
-
+    // rotas protegidas
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity httpSecurity) throws Exception {
         return  httpSecurity
@@ -32,6 +32,7 @@ public class SecurityConfig {
                         .requestMatchers(HttpMethod.POST, "/product").hasRole("ADMIN")
                         .requestMatchers(HttpMethod.DELETE, "/product/{id}").hasRole("ADMIN")
                         .requestMatchers(HttpMethod.PUT, "/product/{id}").hasRole("ADMIN")
+                        // qualquer outra requisicao requer autorizacao
                         .anyRequest().authenticated()
                 )
                 .addFilterBefore(securityFilter, UsernamePasswordAuthenticationFilter.class)
@@ -47,4 +48,5 @@ public class SecurityConfig {
     public PasswordEncoder passwordEncoder(){
         return new BCryptPasswordEncoder();
     }
+
 }
