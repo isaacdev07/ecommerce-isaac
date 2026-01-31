@@ -18,7 +18,7 @@ public class UsuarioController {
 
 	@Autowired
 	UsuarioService usuarioService;
-
+	// post novo usuario
 	@PostMapping(value = "/salvar")
 	public ResponseEntity<UsuarioDTO> salvar(@Valid @RequestBody UsuarioDTO dto) {
 		dto = usuarioService.salvarUsuario(dto);
@@ -37,3 +37,4 @@ public class UsuarioController {
 	}
 
 }
+
